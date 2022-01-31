@@ -1,0 +1,15 @@
+h1{
+    font-size: 60pt;
+    -webkit-text-stroke-color: rgb(109, 228, 188);
+    -webkit-text-stroke-width: 1pt;
+    text-shadow: 4px 4px 4px;
+ text-align: center;
+
+}
+
+body{
+    font-size: 30pt;
+   background-color: rgb(253, 203, 203);
+   text-shadow: 1px 1px 2px white;
+   text-align: center;
+}
